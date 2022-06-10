@@ -1,11 +1,11 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: Status
+  description: All ILSC IT Services!
   navLinks:
-  - title: GitHub
-    path: https://github.com/Lissy93/dashy
+  - title: Serivces
+    path: https://service.ilsc.com/
   - title: Documentation
     path: https://dashy.to/docs
 
